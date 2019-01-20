@@ -1,0 +1,23 @@
+{
+	"name": "redbot",
+	"version": "0.1.0",
+	"description": "A discord bot that pics images off reddit and posts them.",
+	"contributors": [
+		{
+			"name": "Travis Kern",
+			"email": "kern.travis@gmail.com"
+		}
+	],
+	"main": "./app.js",
+	"license": "MIT",
+	"dependencies": {
+		"discord.js": "11.4.2",
+		"dotenv": "^6.2.0",
+		"js-yaml": "^3.12.1",
+		"snoowrap": "^1.15.2"
+	},
+	"devDependencies": {
+		"mocha": "5.2.0",
+		"eslint": "5.2.0"
+	}
+}

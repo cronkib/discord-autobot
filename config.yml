@@ -1,4 +1,4 @@
-botname: WilliamGibson
+botname: MyBot
 commands:
 - name: Hello
   type: value
@@ -8,10 +8,6 @@ commands:
   type: reddit
   params:
     sub: all
-- name: WikiMe
-  type: value
-  params:
-    value: https://en.wikipedia.org/wiki/Special:Random
 - name: LoremIpsum
   type: value
   params:

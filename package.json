@@ -1,7 +1,7 @@
 {
 	"name": "redbot",
 	"version": "0.1.0",
-	"description": "A discord bot that pics images off reddit and posts them.",
+	"description": "A simple bot for discord that connects with Reddit.",
 	"contributors": [
 		{
 			"name": "Travis Kern",
